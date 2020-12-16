@@ -20,6 +20,12 @@ New housing production and housing stock diversity can help alleviate some affor
 
 {% page-ref page="residential-zoning.md" %}
 
+{% page-ref page="identifying-next-steps.md" %}
+
+{% hint style="success" %}
+Looking for a definition? Jump to the glossary by clicking [here](../../glossary-1/glossary.md)
+{% endhint %}
+
 {% tabs %}
 {% tab title="Citations" %}
 `i` _Gerontology Institute at the University of Massachusetts Boston Elder Index:_ [_https://elderindex.org/_](https://elderindex.org/about)\_\_

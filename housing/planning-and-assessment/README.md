@@ -20,6 +20,12 @@ For many communities, they are important first steps.
 
 {% page-ref page="community-plans.md" %}
 
+{% page-ref page="identifying-next-steps.md" %}
+
+{% hint style="success" %}
+Looking for a definition? Jump to the glossary by clicking [here](../../glossary-1/glossary.md)
+{% endhint %}
+
 {% tabs %}
 {% tab title="Citations" %}
  `i`_Jenni Chin Hansen and Andew Scharlach. Community Services in Henry Cisneros, Margaret Dyer-Chamberlain, Jane Hickie \(Eds\). \(2012\). Independent for Life: Homes and Neighborhoods for an Aging America. Austin: University of Texas Press_
