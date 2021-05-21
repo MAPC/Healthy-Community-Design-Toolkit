@@ -34,4 +34,6 @@
 | Financing Subsidies  | Financing Subsidies help increase the maximum supportable level of debt by offering financing with zero or lower interest. Financing subsidies can be an opportunity for local large employers or anchor institutions \(health, education\) to step in and support affordable housing. |
 | **Operating Subsidies** | Operating Subsidies reduce operating expenses, such as utilities, thereby increasing net operating. |
 | **Rental Assistance Subsidies** | Rental Assistance Subsidies increase a project’s gross income, thereby increasing net operating income \(e.g. federal rental vouchers, MRVP\). |
+| Complete Streets | Roads designed for all modes of transit, including vehicles, public transportation, biking and walking, and people of all abilities.  |
+| Transit Authorities | Transit Authorities operate transit services in a particular geographic region. The MBTA \(Massachusetts Bay Transportation Authority\) in Greater Boston operates large rail and bus systems. Aside from the MBTA, fifteen Regional Transit Authorities serve regions from the Berkshires to the islands with public bus and paratransit systems that range in size. |
 

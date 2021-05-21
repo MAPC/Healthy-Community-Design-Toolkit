@@ -9,6 +9,14 @@ Community Plans set long-term goals and guide decision-making. Because these doc
 * **Parking Assessment and Management Plans** provide an accurate inventory of parking availability and use to plan for current and future parking demand and provision. Parking policies have an enormous impact on the built environment, particularly how space in and along roadways are allocated, and how various transportation options are provided to residents. 
 * **Community Health Needs Assessments** and **Age Friendly Needs Assessments** identify key health needs and issues through systematic, comprehensive data collection and analysis **\(**[**Learn more about Needs Assessments**](../../housing-introduction/planning-and-assessment/needs-assessments.md)**\).**
 
+{% hint style="info" %}
+If your community is working on a community plan: 
+
+* Ensure representation on steering or advisory committee including those that can speak to public health, as well as low-income, BIPOC, older adults and people with disabilities. 
+* Identify and introduce public health research on community health insights that capture the health and transportation connection.  
+* Secure agreement explicit for explicit reference to transportation as a determinant of health.  
+{% endhint %}
+
 {% tabs %}
 {% tab title="Citations" %}
 `i` _Massachusetts Division of Conservation Services \(nd\) Open Space and Recreation Plans._ [_https://www.mass.gov/service-details/open-space-and-recreation-plans_](https://www.mass.gov/service-details/open-space-and-recreation-plans)\_\_

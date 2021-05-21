@@ -14,10 +14,8 @@
   * Setting a timeline to achieve zero traffic deaths and serious injuries
 
 {% hint style="info" %}
-Unsure where to start? Connect with 
+Connect with your municipal planning, school department, and/or department of public works to learn if your municipality has policy or is participating in a program to reduce the risk of crashes, injuries, and death and increase physical activity.
+
+For Mass in Motion coordinators, your technical assistance providers are great first stops to learn more and talk about advocating for change.
 {% endhint %}
-
-For Mass in Motion Coordinators and other Massachusetts practitioners, WalkBoston has developed great walk audit resources and should be a first stop for anyone interesting in this mechanism. [Learn more on the WalkBoston website](https://walkboston.org/what-we-do/walkable-communities/).
-
-
 

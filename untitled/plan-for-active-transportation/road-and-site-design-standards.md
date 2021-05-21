@@ -79,6 +79,14 @@ Below are some best practices to consider:
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+Using the best practices checklist above, review your municipalities’ current road design, site plan and subdivision guidelines, and zoning regulations. 
+
+Connect with your municipal planner and local biking and walking advocates \(or Bike/Walk Committees\) about changes to design standards and zoning that could encourage healthy community design practices and promote sustainable travel modes. 
+
+Establish a pre-site plan and subdivision design review process that creates an Inter-Departmental Project Review, including representatives from various municipal departments/boards, including the Board of Health, to provide review and feedback on projects for healthy design strategies while still in design development. 
+{% endhint %}
+
 {% tabs %}
 {% tab title="Citations" %}
 i https://www.boston.gov/sites/default/files/imce-uploads/2019-05/roadway\_design\_standards.pdf
