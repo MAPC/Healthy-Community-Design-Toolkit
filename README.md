@@ -1,5 +1,5 @@
 ---
-description: 'Stable, Healthy, and Quality Homes'
+description: Healthy Community Design Toolkit 2.0
 ---
 
 # Table of Contents
@@ -8,11 +8,7 @@ description: 'Stable, Healthy, and Quality Homes'
 
 {% page-ref page="housing-introduction/" %}
 
-{% page-ref page="housing-introduction/planning-and-assessment/" %}
-
-{% page-ref page="housing-introduction/production-and-preservation/" %}
-
-{% page-ref page="housing-introduction/stability-and-quality/" %}
+{% page-ref page="transportation/" %}
 
 
 
