@@ -14,7 +14,7 @@ If your community is working on a community plan:
 
 * Ensure representation on steering or advisory committee including those that can speak to public health, as well as low-income, BIPOC, older adults and people with disabilities. 
 * Identify and introduce public health research on community health insights that capture the health and transportation connection.  
-* Secure agreement explicit for explicit reference to transportation as a determinant of health.  
+* Secure agreement for explicit reference to transportation as a determinant of health.  
 {% endhint %}
 
 {% tabs %}

@@ -12,7 +12,7 @@
 * Walk audits can be casual events with just a few friends, or can include city council members, traffic engineers, and detailed forms.  
 
 {% hint style="info" %}
-For Mass in Motion Coordinators and other Massachusetts practitioners, WalkBoston has developed great walk audit resources and should be a first stop for anyone interesting in this mechanism. [Learn more on the WalkBoston website](https://walkboston.org/what-we-do/walkable-communities/).
+For Mass in Motion Coordinators and other Massachusetts practitioners, WalkBoston has developed great walk audit resources and should be a first stop for anyone interested in this mechanism. [Learn more on the WalkBoston website](https://walkboston.org/what-we-do/walkable-communities/).
 {% endhint %}
 
 {% tabs %}

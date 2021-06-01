@@ -22,12 +22,14 @@ The Federal Highway administration considers the following elements critical par
 * responsibility for removal, 
 * ordinances, 
 * compliance efforts, and 
-* planning and outreach strategies `i`
+* planning and outreach strategies `ii`
 {% endhint %}
 
 {% tabs %}
 {% tab title="Citation" %}
 `i` _Institute for Human Centered Design https://www.humancentereddesign.org/inclusive-design/resources_  
+
+`ii`_Federal Highway Authority \(2013\) Guide for Maintaining Pedestrian Facilities for Enhanced Safety Research Report._ [_https://safety.fhwa.dot.gov/ped\_bike/tools\_solve/fhwasa13037/research\_report/chap2d.cfm_](https://safety.fhwa.dot.gov/ped_bike/tools_solve/fhwasa13037/research_report/chap2d.cfm)\_\_
 {% endtab %}
 {% endtabs %}
 
