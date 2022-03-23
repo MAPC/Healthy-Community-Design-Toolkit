@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Table of Contents](README.md)
-* [Housing](housing-introduction/README.md)
+* [🏘 Housing](housing-introduction/README.md)
   * [Planning & Assessment](housing-introduction/planning-and-assessment/README.md)
     * [Community Plans](housing-introduction/planning-and-assessment/community-plans.md)
     * [Needs Assessments](housing-introduction/planning-and-assessment/needs-assessments.md)
@@ -17,7 +17,7 @@
     * [Ensuring Housing Quality](housing-introduction/stability-and-quality/ensuring-housing-quality.md)
     * [Identifying Next Steps](housing-introduction/stability-and-quality/identifying-next-steps.md)
   * [Further Resources for Strategies](housing-introduction/identifying-next-steps.md)
-* [Transportation](transportation/README.md)
+* [🚌 Transportation](transportation/README.md)
   * [Make Safe & Active Streets the Goal](transportation/make-safe-and-active-streets-the-goal/README.md)
     * [Policies and Programs](transportation/make-safe-and-active-streets-the-goal/policies-and-programs.md)
     * [Safety Assessments](transportation/make-safe-and-active-streets-the-goal/safety-assessments.md)
@@ -31,8 +31,10 @@
     * [Road and Site Design Standards](transportation/plan-for-active-transportation/road-and-site-design-standards.md)
     * [Funding Active Transportation Infrastructure](transportation/plan-for-active-transportation/funding-active-transportation-infrastructure.md)
   * [Identifying Next Steps](transportation/identifying-next-steps.md)
+* [👥 Social Environment](social-environment/README.md)
+  * [Inclusive Processes](social-environment/inclusive-processes.md)
+  * [Social Places and Spaces](social-environment/social-places-and-spaces.md)
 
-## Glossary <a id="glossary-1"></a>
+## Glossary <a href="#glossary-1" id="glossary-1"></a>
 
 * [Glossary](glossary-1/glossary.md)
-
