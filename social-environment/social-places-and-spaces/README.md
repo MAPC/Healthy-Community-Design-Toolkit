@@ -1,6 +1,6 @@
 # Social Places and Spaces
 
-**Mechanisms:**&#x20;
+_Mechanisms:_ [**Design Standards**](design-standards.md)**,** [**Community Plans**](community-plans.md)**,** [**Placemaking**](../../transportation/make-safe-and-active-streets-the-goal/placemaking.md)**,** [**Community Hubs**](community-hubs.md)****
 
 Our physical environment is part of our social environment; buildings and spaces impact how people function and interact. For example, public spaces can be designed and built to encourage casual, daily interactions between people and/or invoke a sense of belonging and pride in a community. &#x20;
 
@@ -21,7 +21,25 @@ The role of social cohesion in climate disasters is profiled in _Heat Wave,_ by 
 
 There is some evidence, however, that that place and space interventions can have potentially negative effects in terms of some residents feeling excluded. Cultural groups may choose not to engage in certain activities or visit certain public places because they do not feel welcome due to the experience of discrimination or the expectation that discrimination will occur. Park surveys have shown that some people of color have experienced overt hostility by both other users and management staff, ranging from racist utterances to violent actions. `i`&#x20;
 
-While the physical aspects of green and open space design are critical to a place’s success; they should always be viewed alongside the creation of a welcoming social or cultural space. Inclusive processes are critical to creating a successful space where a community’s identity is affirmed and where people feel comfortable using the space ([Learn more about Inclusive Processes](../inclusive-processes.md)).
+While the physical aspects of green and open space design are critical to a place’s success; they should always be viewed alongside the creation of a welcoming social or cultural space. Inclusive processes are critical to creating a successful space where a community’s identity is affirmed and where people feel comfortable using the space ([Learn more about Inclusive Processes](../inclusive-processes/)).
+
+### Mechanisms
+
+{% content-ref url="design-standards.md" %}
+[design-standards.md](design-standards.md)
+{% endcontent-ref %}
+
+{% content-ref url="community-plans.md" %}
+[community-plans.md](community-plans.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../transportation/make-safe-and-active-streets-the-goal/placemaking.md" %}
+[placemaking.md](../../transportation/make-safe-and-active-streets-the-goal/placemaking.md)
+{% endcontent-ref %}
+
+{% content-ref url="community-hubs.md" %}
+[community-hubs.md](community-hubs.md)
+{% endcontent-ref %}
 
 <details>
 
