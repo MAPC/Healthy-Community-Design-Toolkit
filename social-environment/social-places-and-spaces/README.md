@@ -21,16 +21,14 @@ The role of social cohesion in climate disasters is profiled in _Heat Wave,_ by 
 
 There is some evidence, however, that that place and space interventions can have potentially negative effects in terms of some residents feeling excluded. Cultural groups may choose not to engage in certain activities or visit certain public places because they do not feel welcome due to the experience of discrimination or the expectation that discrimination will occur. Park surveys have shown that some people of color have experienced overt hostility by both other users and management staff, ranging from racist utterances to violent actions. `i`&#x20;
 
-While the physical aspects of green and open space design are critical to a place’s success; they should always be viewed alongside the creation of a welcoming social or cultural space. Inclusive processes are critical to creating a successful space where a community’s identity is affirmed and where people feel comfortable using the space ([learn more about inclusive processes](inclusive-processes.md)).
+While the physical aspects of green and open space design are critical to a place’s success; they should always be viewed alongside the creation of a welcoming social or cultural space. Inclusive processes are critical to creating a successful space where a community’s identity is affirmed and where people feel comfortable using the space ([Learn more about Inclusive Processes](../inclusive-processes.md)).
 
-{% tabs %}
-{% tab title="Citations" %}
+<details>
+
+<summary>Citations</summary>
+
 `i`  _Knapp, C. (2018)_ [_Making Multicultural Places_](https://www.pps.org/article/multicultural-places)_. Project for Public Spaces_
 
 `ii` _Clayton, S., Manning, C. M., Speiser, M., & Hill, A. N. (2021)._ [_Mental Health and Our Changing Climate: Impacts, Inequities, Responses._](https://ecoamerica.org/wp-content/uploads/2021/11/mental-health-climate-change-2021-ea-apa.pdf) _Washington, D.C.: American Psychological Association, and ecoAmerica._
-{% endtab %}
 
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
+</details>

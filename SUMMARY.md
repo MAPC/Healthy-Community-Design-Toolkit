@@ -33,7 +33,12 @@
   * [Identifying Next Steps](transportation/identifying-next-steps.md)
 * [👥 Social Environment](social-environment/README.md)
   * [Inclusive Processes](social-environment/inclusive-processes.md)
-  * [Social Places and Spaces](social-environment/social-places-and-spaces.md)
+  * [Social Places and Spaces](social-environment/social-places-and-spaces/README.md)
+    * [Design Standards](social-environment/social-places-and-spaces/design-standards.md)
+    * [Community Plan](social-environment/social-places-and-spaces/community-plan.md)
+    * [Crime Prevention Through Environmental Design](social-environment/social-places-and-spaces/crime-prevention-through-environmental-design.md)
+    * [Placemaking](social-environment/social-places-and-spaces/placemaking.md)
+    * [Community Hubs](social-environment/social-places-and-spaces/community-hubs.md)
 
 ## Glossary <a href="#glossary-1" id="glossary-1"></a>
 

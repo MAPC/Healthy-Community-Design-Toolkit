@@ -6,11 +6,17 @@ description: Healthy Community Design Toolkit 2.0
 
 
 
-{% page-ref page="housing-introduction/" %}
+{% content-ref url="housing-introduction/" %}
+[housing-introduction](housing-introduction/)
+{% endcontent-ref %}
 
-{% page-ref page="transportation/" %}
+{% content-ref url="transportation/" %}
+[transportation](transportation/)
+{% endcontent-ref %}
 
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 
 
