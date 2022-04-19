@@ -26,14 +26,14 @@ _**The Groundwater Approach: Leading with Race and Racism.**_ The following meta
 
 This metaphor is designed to help people internalize we live in a racially structured society, and that that is what causes racial inequity. The metaphor is based on three observations: &#x20;
 
-1. racial inequity looks the same across systems, &#x20;
-2. socioeconomic difference does not explain the racial inequity; &#x20;
-3. and inequities are caused by systems, regardless of people’s culture or behavior.&#x20;
+1. Racial inequity looks the same across systems, &#x20;
+2. Socioeconomic difference does not explain the racial inequity, and
+3. Inequities are caused by systems, regardless of people’s culture or behavior.&#x20;
 
 All our systems, institutions, and outcomes emanate from the racial hierarchy on which the United States was built. In the words of The Racial Equity Institute “we have a “groundwater” problem, and we need “groundwater” solutions.”&#x20;
 {% endhint %}
 
-In Mass in Motion, we often talk about leading with race and racism. We lead explicitly with race because racial inequalities in healthy eating and active living are a groundwater problem. Acknowledging this makes coordinators better equipped to look for groundwater solutions – transformations to policies, systems, and environments perpetuating racial health inequities. &#x20;
+In Mass in Motion, we often talk about **leading with race and racism**. We lead explicitly with race because racial inequalities in healthy eating and active living are a groundwater problem. Acknowledging this makes coordinators better equipped to look for groundwater solutions – transformations to policies, systems, and environments perpetuating racial health inequities. &#x20;
 
 In the following sections we offer some principles and tools to help you create processes that lead to groundwater solutions. &#x20;
 
