@@ -43,7 +43,7 @@ In the following sections we offer some principles and tools to help you create 
 
 `i`  _Anne-Marie Bagnall, et al. Places, Spaces, People and Wellbeing: Full Review (Mar. 2018)._ [_https://whatworkswellbeing.org/wp-content/uploads/2020/01/Places-spaces-people-wellbeing-full-report-MAY2018-1\_0119755600.pdf_ ](https://whatworkswellbeing.org/wp-content/uploads/2020/01/Places-spaces-people-wellbeing-full-report-MAY2018-1\_0119755600.pdf)__
 
-`ii` _Metropolitan Area Planning Council (2020) Transit Oriented Development and Health: Update to the 2013 Health Impact Assessment to Inform Healthy Neighborhoods Equity Fund II_
+`ii` _Metropolitan Area Planning Council (2020)_ [_Transit Oriented Development and Health: Update to the 2013 Health Impact Assessment to Inform Healthy Neighborhoods Equity Fund II_](https://static1.squarespace.com/static/5f31ae81bcb71e20e39311bb/t/5fc7ef8ede88f730f6d7c2ef/1606938515180/HNEF+Lit+Update+Report\_11\_2\_2020.pdf)__
 
 `iii` _Rosenberg, Sam (2020) The Social Environment and Public Health Literature Review. Massachusetts Department of Public Health_
 
