@@ -27,7 +27,7 @@ For Mass in Motion Coordinators and other Massachusetts practitioners, MAPC has 
 
 <summary>Citations</summary>
 
-`i`[https://www.pps.org/article/multicultural-place](https://www.pps.org/article/multicultural-places)
+`i`  _Knapp, C. (2018)_ [_Making Multicultural Places_](https://www.pps.org/article/multicultural-places)_. Project for Public Spaces_
 
 `ii` _Anne-Marie Bagnall, et al. (2018) Places, Spaces, People and Wellbeing: Full Review._ [_https://whatworkswellbeing.org/wp-content/uploads/2020/01/Places-spaces-people-wellbeing-full-report-MAY2018-1\_0119755600.pdf_ ](https://whatworkswellbeing.org/wp-content/uploads/2020/01/Places-spaces-people-wellbeing-full-report-MAY2018-1\_0119755600.pdf)__
 

@@ -1,6 +1,6 @@
 # Stability & Quality
 
-**Mechanisms:** [Municipal Policies and Programs](municipal-policies-and-programs.md), [Integration of Supportive Services](integration-of-supportive-services.md), [Ensuring Housing Quality ](ensuring-housing-quality.md)
+**Mechanisms:** [**Municipal Policies and Programs**](municipal-policies-and-programs.md)**,** [**Integration of Supportive Services**](integration-of-supportive-services.md)**,** [**Ensuring Housing Quality** ](ensuring-housing-quality.md)****
 
 Observational studies have shown that being without a stable home is detrimental to one’s health. Housing instability can result in disruptions to employment, social networks, education, and the receipt of social service benefits. It is a barrier to proper medication adherence and has been associated with increased risk of teen pregnancy, substance abuse, and depression. `i`
 
@@ -8,13 +8,21 @@ Housing that is not clean, safe, adequately maintained, ventilated, or free from
 
 ### Mechanisms
 
-{% page-ref page="municipal-policies-and-programs.md" %}
+{% content-ref url="municipal-policies-and-programs.md" %}
+[municipal-policies-and-programs.md](municipal-policies-and-programs.md)
+{% endcontent-ref %}
 
-{% page-ref page="integration-of-supportive-services.md" %}
+{% content-ref url="integration-of-supportive-services.md" %}
+[integration-of-supportive-services.md](integration-of-supportive-services.md)
+{% endcontent-ref %}
 
-{% page-ref page="ensuring-housing-quality.md" %}
+{% content-ref url="ensuring-housing-quality.md" %}
+[ensuring-housing-quality.md](ensuring-housing-quality.md)
+{% endcontent-ref %}
 
-{% page-ref page="identifying-next-steps.md" %}
+{% content-ref url="identifying-next-steps.md" %}
+[identifying-next-steps.md](identifying-next-steps.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 Looking for a definition? Jump to the glossary by clicking [here](../../glossary-1/glossary.md)
@@ -22,7 +30,6 @@ Looking for a definition? Jump to the glossary by clicking [here](../../glossary
 
 {% tabs %}
 {% tab title="Citations" %}
-`i` _Taylor, Lauren. \(June, 2018\). Housing And Health: An Overview Of The Literature. Health Affairs. Retrieved from:_ [_https://www.healthaffairs.org/do/10.1377/hpb20180313.396577/full/_](https://www.healthaffairs.org/do/10.1377/hpb20180313.396577/full/)\_\_
+`i` _Taylor, Lauren. (June, 2018). Housing And Health: An Overview Of The Literature. Health Affairs. Retrieved from:_ [_https://www.healthaffairs.org/do/10.1377/hpb20180313.396577/full/_](https://www.healthaffairs.org/do/10.1377/hpb20180313.396577/full/)__
 {% endtab %}
 {% endtabs %}
-

@@ -14,6 +14,10 @@ description: Healthy Community Design Toolkit 2.0
 [transportation](transportation/)
 {% endcontent-ref %}
 
+{% content-ref url="social-environment/" %}
+[social-environment](social-environment/)
+{% endcontent-ref %}
+
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}

@@ -20,13 +20,14 @@ For each area, we list possible mechanisms for influencing local housing strateg
 Community engagement can and should happen throughout the process for all housing strategies, from conception of an idea through construction or adoption of a policy. Developers or municipalities will likely engage a traditional set of players, but should be encouraged to also include those who are part of your community health system and hospitals as well as older adults and disability advocates.
 {% endhint %}
 
-{% tabs %}
-{% tab title="Citations" %}
-&#x20;`i` _RWJF How Does Housing Affect Health?:_ [_https://www.rwjf.org/en/library/research/2011/05/housing-and-health.html_](https://www.rwjf.org/en/library/research/2011/05/housing-and-health.html)__\
+<details>
+
+<summary>Citations</summary>
+
+`i` _RWJF How Does Housing Affect Health?:_ [_https://www.rwjf.org/en/library/research/2011/05/housing-and-health.html_](https://www.rwjf.org/en/library/research/2011/05/housing-and-health.html)__\
 __\
 __`ii`  _Cutts, Diana Becker, et al. "US housing insecurity and the health of very young children." American Journal of Public Health 101.8 (2011): 1508-1514._
 
 _Taylor, Lauren. (June, 2018). Housing And Health: An Overview Of The Literature. Health Affairs. Retrieved from:_ [NextPlanning & Assessment](https://app.gitbook.com/@hcdtk/s/stable-healthy-and-quality-homes/\~/drafts/-Ma4\_kLQNDSX0DVtyz7M/housing-introduction/planning-and-assessment)
-{% endtab %}
-{% endtabs %}
 
+</details>

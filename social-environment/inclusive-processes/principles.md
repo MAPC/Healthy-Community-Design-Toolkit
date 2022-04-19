@@ -10,6 +10,6 @@
 
 <summary>Citations</summary>
 
-National Association of Climate Resilience Planners () [_Community-Driven Climate Resilience Planning: A Framework_](https://www.nacrp.org)
+_National Association of Climate Resilience Planners_ [_Community-Driven Climate Resilience Planning: A Framework_](https://www.nacrp.org)__
 
 </details>

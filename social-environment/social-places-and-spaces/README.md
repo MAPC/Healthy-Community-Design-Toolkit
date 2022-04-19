@@ -1,6 +1,6 @@
 # Social Places and Spaces
 
-_Mechanisms:_ [**Design Standards**](design-standards.md)**,** [**Community Plans**](community-plans.md)**,** [**Placemaking**](../../transportation/make-safe-and-active-streets-the-goal/placemaking.md)**,** [**Community Hubs**](community-hubs.md)****
+**Mechanisms:** [**Design Standards**](design-standards.md)**,** [**Community Plans**](community-plans.md)**,** [**Placemaking**](../../transportation/make-safe-and-active-streets-the-goal/placemaking.md)**,** [**Community Hubs**](community-hubs.md)****
 
 Our physical environment is part of our social environment; buildings and spaces impact how people function and interact. For example, public spaces can be designed and built to encourage casual, daily interactions between people and/or invoke a sense of belonging and pride in a community. &#x20;
 

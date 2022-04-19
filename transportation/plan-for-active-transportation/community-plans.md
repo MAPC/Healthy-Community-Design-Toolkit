@@ -17,10 +17,12 @@ If your community is working on a community plan:&#x20;
 * Secure agreement for explicit reference to transportation as a determinant of health. &#x20;
 {% endhint %}
 
-{% tabs %}
-{% tab title="Citations" %}
+<details>
+
+<summary>Citations</summary>
+
 `i` _Massachusetts Division of Conservation Services (nd) Open Space and Recreation Plans._ [_https://www.mass.gov/service-details/open-space-and-recreation-plans_](https://www.mass.gov/service-details/open-space-and-recreation-plans)__
 
-`ii`_National Recreation and Parks Association (nd) Parks and Recreation: Essential Partners in Active Transportation. https://www.nrpa.org/uploadedFiles/nrpa.org/Advocacy/Resources/Active-Transportation-Parks-Recreation.pdf_&#x20;
-{% endtab %}
-{% endtabs %}
+`ii`_National Recreation and Parks Association (nd) Parks and Recreation: Essential Partners in Active Transportation._ [_https://www.nrpa.org/uploadedFiles/nrpa.org/Advocacy/Resources/Active-Transportation-Parks-Recreation.pdf_ ](https://www.nrpa.org/uploadedFiles/nrpa.org/Advocacy/Resources/Active-Transportation-Parks-Recreation.pdf)__
+
+</details>

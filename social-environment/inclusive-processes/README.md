@@ -1,6 +1,6 @@
 # Inclusive Processes
 
-_Mechanisms:_ **** [**Principles**](principles.md)**,** [**Tools**](tools.md)****
+**Mechanisms:** [**Principles**](principles.md)**,** [**Tools**](tools.md)****
 
 Social environments can be transformed through inclusive organizing and planning processes that stimulate interpersonal and community relationships and build attachments to civic and community spaces. `i`
 
@@ -22,6 +22,6 @@ Social environments can be transformed through inclusive organizing and planning
 
 `i` _Clayton, S., Manning, C. M., Speiser, M., & Hill, A. N. (2021). Mental Health and Our Changing Climate: Impacts, Inequities, Responses. Washington, D.C.: American Psychological Association, and ecoAmerica._ [_https://ecoamerica.org/wp-content/uploads/2021/11/mental-health-climate-change-2021-ea-apa.pdf_](https://ecoamerica.org/wp-content/uploads/2021/11/mental-health-climate-change-2021-ea-apa.pdf)__
 
-`ii` Kyne, D., & Aldrich, D. P. (2020). Capturing bonding, bridging, and linking social capital through publicly available data. _Risk, Hazards & Crisis in Public Policy_, _11_(1), 61-86.
+`ii` _Kyne, D., & Aldrich, D. P. (2020). Capturing bonding, bridging, and linking social capital through publicly available data. Risk, Hazards & Crisis in Public Policy, 11(1), 61-86._
 
 </details>

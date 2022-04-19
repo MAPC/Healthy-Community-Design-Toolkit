@@ -1,6 +1,6 @@
 # Planning & Assessment
 
-**Mechanisms:** [Community Plans](community-plans.md), [Needs Assessments](needs-assessments.md)
+**Mechanisms:** [**Community Plans**](community-plans.md)**,** [**Needs Assessments**](needs-assessments.md)****
 
 While people want and need to live in housing that meets a wide variety of circumstances, it is generally acknowledged that in many communities the existing housing stock is not diverse enough to meet certain needs. Some needs that may not be met by traditional housing stock:
 
@@ -16,21 +16,23 @@ For many communities, they are important first steps.
 
 ### Mechanisms
 
-{% page-ref page="needs-assessments.md" %}
+{% content-ref url="needs-assessments.md" %}
+[needs-assessments.md](needs-assessments.md)
+{% endcontent-ref %}
 
-{% page-ref page="community-plans.md" %}
-
-{% page-ref page="identifying-next-steps.md" %}
+{% content-ref url="community-plans.md" %}
+[community-plans.md](community-plans.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 Looking for a definition? Jump to the glossary by clicking [here](../../glossary-1/glossary.md)
 {% endhint %}
 
-{% tabs %}
-{% tab title="Citations" %}
- `i`_Jenni Chin Hansen and Andew Scharlach. Community Services in Henry Cisneros, Margaret Dyer-Chamberlain, Jane Hickie \(Eds\). \(2012\). Independent for Life: Homes and Neighborhoods for an Aging America. Austin: University of Texas Press_
-{% endtab %}
-{% endtabs %}
+<details>
 
- 
+<summary>Citations</summary>
+
+`i`_Jenni Chin Hansen and Andew Scharlach. Community Services in Henry Cisneros, Margaret Dyer-Chamberlain, Jane Hickie (Eds). (2012). Independent for Life: Homes and Neighborhoods for an Aging America. Austin: University of Texas Press_
+
+</details>
 

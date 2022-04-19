@@ -25,11 +25,12 @@ The Federal Highway administration considers the following elements critical par
 * planning and outreach strategies `ii`
 {% endhint %}
 
-{% tabs %}
-{% tab title="Citation" %}
+<details>
+
+<summary>Citations</summary>
+
 `i` _Institute for Human Centered Design https://www.humancentereddesign.org/inclusive-design/resources_ &#x20;
 
-`ii`_Federal Highway Authority (2013) Guide for Maintaining Pedestrian Facilities for Enhanced Safety Research Report._ [_https://safety.fhwa.dot.gov/ped\_bike/tools\_solve/fhwasa13037/research\_report/chap2d.cfm_](https://safety.fhwa.dot.gov/ped\_bike/tools\_solve/fhwasa13037/research\_report/chap2d.cfm)__
-{% endtab %}
-{% endtabs %}
+`ii` _Federal Highway Authority (2013) Guide for Maintaining Pedestrian Facilities for Enhanced Safety Research Report._ [_https://safety.fhwa.dot.gov/ped\_bike/tools\_solve/fhwasa13037/research\_report/chap2d.cfm_](https://safety.fhwa.dot.gov/ped\_bike/tools\_solve/fhwasa13037/research\_report/chap2d.cfm)__
 
+</details>

@@ -2,7 +2,7 @@
 description: Community Planning for Social Environments
 ---
 
-# Community Plan
+# Community Plans
 
 Community Plans set long-term goals and guide decision-making. Because these documents establish a vision for the future, they can be a very powerful tool in shaping the health of a community &#x20;
 
@@ -29,8 +29,8 @@ Below are some best practices to consider:
 
 <summary>Citations</summary>
 
-i (Cite: HNEF)&#x20;
+`i` _Metropolitan Area Planning Council (2020) Transit Oriented Development and Health: Update to the 2013 Health Impact Assessment to Inform Healthy Neighborhoods Equity Fund II_
 
-ii  _Anne-Marie Bagnall, et al. (2018) Places, Spaces, People and Wellbeing: Full Review._ [_https://whatworkswellbeing.org/wp-content/uploads/2020/01/Places-spaces-people-wellbeing-full-report-MAY2018-1\_0119755600.pdf_ ](https://whatworkswellbeing.org/wp-content/uploads/2020/01/Places-spaces-people-wellbeing-full-report-MAY2018-1\_0119755600.pdf)__
+`ii`  _Anne-Marie Bagnall, et al. (2018) Places, Spaces, People and Wellbeing: Full Review._ [_https://whatworkswellbeing.org/wp-content/uploads/2020/01/Places-spaces-people-wellbeing-full-report-MAY2018-1\_0119755600.pdf_ ](https://whatworkswellbeing.org/wp-content/uploads/2020/01/Places-spaces-people-wellbeing-full-report-MAY2018-1\_0119755600.pdf)__
 
 </details>

@@ -37,20 +37,16 @@ In Mass in Motion, we often talk about leading with race and racism. We lead exp
 
 In the following sections we offer some principles and tools to help you create processes that lead to groundwater solutions. &#x20;
 
+<details>
 
+<summary>Citations</summary>
 
-{% tabs %}
-{% tab title="Citations" %}
 `i`  _Anne-Marie Bagnall, et al. Places, Spaces, People and Wellbeing: Full Review (Mar. 2018)._ [_https://whatworkswellbeing.org/wp-content/uploads/2020/01/Places-spaces-people-wellbeing-full-report-MAY2018-1\_0119755600.pdf_ ](https://whatworkswellbeing.org/wp-content/uploads/2020/01/Places-spaces-people-wellbeing-full-report-MAY2018-1\_0119755600.pdf)__
 
-ii HNEF
+`ii` _Metropolitan Area Planning Council (2020) Transit Oriented Development and Health: Update to the 2013 Health Impact Assessment to Inform Healthy Neighborhoods Equity Fund II_
 
-iii DPH Social Cohesion report
+`iii` _Rosenberg, Sam (2020) The Social Environment and Public Health Literature Review. Massachusetts Department of Public Health_
 
-iv _Flingai, S. & Spence, C. (2019). Climate Vulnerability in Greater Boston Technical Documentation. Metropolitan Area Planning Council._ [_https://climate-vulnerability.mapc.org/assets/data/MAPC\_ClimateVulnerability\_Technical-Documentation\_2019-12-10.pdf_](https://climate-vulnerability.mapc.org/assets/data/MAPC\_ClimateVulnerability\_Technical-Documentation\_2019-12-10.pdf)  __ &#x20;
-{% endtab %}
+`iv` _Flingai, S. & Spence, C. (2019). Climate Vulnerability in Greater Boston Technical Documentation. Metropolitan Area Planning Council._ [_https://climate-vulnerability.mapc.org/assets/data/MAPC\_ClimateVulnerability\_Technical-Documentation\_2019-12-10.pdf_](https://climate-vulnerability.mapc.org/assets/data/MAPC\_ClimateVulnerability\_Technical-Documentation\_2019-12-10.pdf)  __ &#x20;
 
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
+</details>
