@@ -29,9 +29,3 @@ Municipal policy can require new development projects over 25,000 square feet to
 `i` _Local Housing Solutions (2021) Increasing housing stability for renters and owners_[_https://www.localhousingsolutions.org/act/policy-objectives/act-policy-objectives-increasing-housing-stability-for-renters-and-owners/_](https://www.localhousingsolutions.org/act/policy-objectives/act-policy-objectives-increasing-housing-stability-for-renters-and-owners/)__
 
 </details>
-
-{% tabs %}
-{% tab title="First Tab" %}
-(Cite:&#x20;
-{% endtab %}
-{% endtabs %}

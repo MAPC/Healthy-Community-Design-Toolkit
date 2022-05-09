@@ -28,8 +28,10 @@ Housing that is not clean, safe, adequately maintained, ventilated, or free from
 Looking for a definition? Jump to the glossary by clicking [here](../../glossary-1/glossary.md)
 {% endhint %}
 
-{% tabs %}
-{% tab title="Citations" %}
+<details>
+
+<summary>Citations</summary>
+
 `i` _Taylor, Lauren. (June, 2018). Housing And Health: An Overview Of The Literature. Health Affairs. Retrieved from:_ [_https://www.healthaffairs.org/do/10.1377/hpb20180313.396577/full/_](https://www.healthaffairs.org/do/10.1377/hpb20180313.396577/full/)__
-{% endtab %}
-{% endtabs %}
+
+</details>
